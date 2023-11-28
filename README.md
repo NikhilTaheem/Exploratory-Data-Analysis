@@ -1,1 +1,1 @@
-# Exploring-Python-for-data-analytics
+# Exploring-Python-for-Data-Analysis
